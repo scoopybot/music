@@ -1,0 +1,12 @@
+{
+  "discord_token": "ODEyMzc5OTkwNzgzNjg4Nzk2.YC_50w.Pp0s_zHxM0F4yYK22toBrRs7qCg",
+  "prefix": "%",
+  "owner_id": "785479942837239829",
+  "presence_type": "PLAYING",
+  "channel_id": "810415289954074663",
+  "shuffle": true,
+  "pause_on_empty": true,
+  "channel_leave_on_empty": false,
+  "soundcloud_client_id": "",
+  "youtube_cookie": ""
+}
